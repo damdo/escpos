@@ -1,4 +1,4 @@
-module github.com/kenshaw/escpos
+module github.com/damdo/escpos
 
 go 1.12
 
